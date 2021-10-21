@@ -1,0 +1,4 @@
+pygame
+music21
+keras
+tensorflow
